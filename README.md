@@ -1,2 +1,3 @@
-# vacancy
-portfolio_vacancy
+# portfolio_vacancy
+
+Frontend qismi
