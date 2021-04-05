@@ -22,7 +22,7 @@ h1, h2, h3, h4, h5, h6, strong, b {
   font-size: 17px;
   line-height: 22px;
   font-weight: 600;
-  color: #0a6427;
+  color: #0A7F2E;
   background-color: #ffffff;
   padding-bottom: 21px;
   padding-top: 21px;
@@ -32,7 +32,7 @@ h1, h2, h3, h4, h5, h6, strong, b {
   box-shadow: 0 0 30px #ffffff; }
   .links:hover {
     text-decoration: none;
-    color: #0a6427; }
+    color: #0A7F2E; }
 
 body .vacancy .navbar .container img {
   width: 80%;
@@ -78,7 +78,7 @@ body .vacancy .section_one {
       font-size: 36px;
       font-weight: 400; }
       body .vacancy .section_one .container .row .text strong span {
-        color: #0a6427; }
+        color: #0A7F2E; }
     body .vacancy .section_one .container .row .text p {
       color: #808080;
       padding-top: 30px;
@@ -127,8 +127,8 @@ body .vacancy .section_three {
       font-size: 14px;
       padding-top: 14px;
       padding-bottom: 14px;
-      border-bottom: 3px solid #0a6427;
-      border-top: 3px solid #0a6427;
+      border-bottom: 3px solid #0A7F2E;
+      border-top: 3px solid #0A7F2E;
       color: #808080; }
       body .vacancy .section_three .container .row .left .row .col-md-10 .top-bottom span {
         color: #808080; }
@@ -157,7 +157,7 @@ body .vacancy .section_three {
       body .vacancy .section_three .container .row .right .row .col-md-6 {
         padding-right: 60px; }
       body .vacancy .section_three .container .row .right .row .son {
-        color: #0a6427;
+        color: #0A7F2E;
         font-weight: 600;
         font-size: 36px; }
       body .vacancy .section_three .container .row .right .row .nomi {
@@ -245,16 +245,16 @@ body .vacancy .section_five .container .row .col-md-12 .card {
         body .vacancy .section_five .container .row .col-md-12 .card .card-body .row .col-md-10 p {
           line-height: 30px; }
         body .vacancy .section_five .container .row .col-md-12 .card .card-body .row .col-md-10 span {
-          color: #0a6427;
+          color: #0A7F2E;
           font-weight: 500; }
       body .vacancy .section_five .container .row .col-md-12 .card .card-body .row .px-4 {
         padding-top: 5px;
         padding-bottom: 5px;
         line-height: 30px;
-        border-left: 2px solid #0a6427;
+        border-left: 2px solid #0A7F2E;
         background-color: #f6f6f6; }
   body .vacancy .section_five .container .row .col-md-12 .card .show {
-    border-bottom: 2px solid #0a6427; }
+    border-bottom: 2px solid #0A7F2E; }
 body .vacancy .section_six {
   margin-top: 150px;
   margin-bottom: 150px; }
@@ -336,18 +336,18 @@ body .vacancy .section_sevin {
   body .vacancy .section_sevin .container form input {
     border-radius: 0; }
     body .vacancy .section_sevin .container form input:focus {
-      box-shadow: 0 0 5px 2px #0a6427;
-      border: 1px solid #0a6427; }
+      box-shadow: 0 0 5px 2px #0A7F2E;
+      border: 1px solid #0A7F2E; }
   body .vacancy .section_sevin .container form textarea {
     border-radius: 0;
     height: 170px; }
     body .vacancy .section_sevin .container form textarea:focus {
-      box-shadow: 0 0 5px 2px #0a6427;
-      border: 1px solid #0a6427; }
+      box-shadow: 0 0 5px 2px #0A7F2E;
+      border: 1px solid #0A7F2E; }
   body .vacancy .section_sevin .container form .yuborish {
     margin-top: 20px;
     font-size: 12px;
-    background-color: #0a6427;
+    background-color: #0A7F2E;
     color: #ffffff; }
 body .vacancy footer {
   background-image: url("../images/battle/Rectangle 51 (2).png"), url("../images/battle/Rectangle 48.png");
@@ -440,7 +440,7 @@ body .home_page {
       font-size: 14px; }
     body .home_page .rasm .navbar .container .navbar-nav .nav-item .buttun {
       border: 1px solid #ffffff;
-      background-color: #0a6427;
+      background-color: #0A7F2E;
       padding-bottom: 5px;
       padding-top: 5px;
       padding-left: 15px;
@@ -465,15 +465,15 @@ body .home_page {
         box-shadow: 1px 1px 15px #cccccc; }
     body .home_page .rasm header .col-md-6 form button {
       font-size: 12px;
-      background-color: #0a6427;
+      background-color: #0A7F2E;
       color: #ffffff;
       padding-left: 15px;
       padding-right: 15px;
       outline: none;
       box-shadow: none;
-      border: 1px solid #0a6427; }
+      border: 1px solid #0A7F2E; }
       body .home_page .rasm header .col-md-6 form button:focus {
-        box-shadow: 1px 1px 15px #0a6427; }
+        box-shadow: 1px 1px 15px #0A7F2E; }
     body .home_page .rasm header .col-md-12 p {
       font-size: 28px;
       color: #ffffff;
@@ -498,6 +498,75 @@ body .home_page {
       body .home_page .rasm .aylan img {
         transform: rotate(90deg);
         height: 250px; }
+body .services .navbar .container img {
+  width: 80%;
+  height: 80%; }
+body .services .navbar .container .logo {
+  padding: 0;
+  margin: 0; }
+body .services .navbar .container .btnn {
+  margin-right: 20px;
+  padding: 0;
+  background-color: #ffffff;
+  outline: none;
+  border: none; }
+  body .services .navbar .container .btnn img {
+    width: 80%;
+    height: 80%; }
+body .services .navbar .container .navbar-nav.text-green .nav-item .nav-link {
+  color: #808080;
+  font-size: 12px; }
+body .services .navbar .container .navbar-nav .nav-item .nav-link {
+  color: #201F1E;
+  font-size: 14px; }
+body .services .navbar .container .navbar-nav .nav-item .buttun {
+  border: 1px solid #808080;
+  color: #808080;
+  padding-bottom: 5px;
+  padding-top: 5px;
+  padding-left: 15px;
+  padding-right: 15px; }
+body .services section .yuqori a {
+  text-decoration: none;
+  color: #0A7F2E;
+  font-weight: 600;
+  font-size: 18px; }
+body .services section .yuqori img {
+  width: 8px;
+  margin-right: 10px; }
+body .services section .card {
+  height: 230px;
+  border-radius: 0;
+  border: 2px solid #ffffff;
+  box-shadow: 0 0 20px 2px rgba(200, 201, 204, 0.38);
+  transition: 0.5s;
+  background-image: url("../images/Group 167.png");
+  background-repeat: no-repeat;
+  background-position: 95% 95%;
+  background-size: 25%; }
+  body .services section .card:hover {
+    border: 2px dashed #0A7F2E;
+    margin-top: -10px; }
+  body .services section .card .img {
+    width: 50px; }
+  body .services section .card .doira {
+    box-shadow: 0 0 20px 2px rgba(200, 201, 204, 0.38);
+    width: 27px;
+    height: 27px;
+    border-radius: 50%; }
+    body .services section .card .doira img {
+      width: 12px; }
+  body .services section .card h4 {
+    font-size: 24px;
+    font-weight: 600; }
+body .services section .rasmqada .card {
+  background-image: url("../images/5885 1.png");
+  border: none;
+  box-shadow: none;
+  background-size: 100%;
+  background-position: center; }
+  body .services section .rasmqada .card:hover {
+    margin-top: 0; }
 
 .dropcha::before {
   content: "";
@@ -529,8 +598,8 @@ body .home_page {
   height: 24px;
   left: -15px;
   top: -12px;
-  border-left: 3px solid #0a6427;
-  border-top: 3px solid #0a6427; }
+  border-left: 3px solid #0A7F2E;
+  border-top: 3px solid #0A7F2E; }
 
 .b_burchak::before {
   content: "";
@@ -539,8 +608,8 @@ body .home_page {
   height: 25px;
   left: 235px;
   top: 38px;
-  border-right: 3px solid #0a6427;
-  border-bottom: 3px solid #0a6427; }
+  border-right: 3px solid #0A7F2E;
+  border-bottom: 3px solid #0A7F2E; }
 
 @media (max-width: 576px) {
   body .vacancy .section_one {
@@ -623,13 +692,13 @@ body .home_page {
       text-align: center; }
   body .vacancy footer {
     background-image: none;
-    background-color: #0a6427; }
+    background-color: #0A7F2E; }
     body .vacancy footer .row {
       text-align: center; }
       body .vacancy footer .row .malumot {
         padding-right: 93px; }
   body .home_page {
-    background-color: #0a6427;
+    background-color: #0A7F2E;
     background-image: none; }
     body .home_page .rasm {
       background-image: none; } }
@@ -710,13 +779,13 @@ body .home_page {
       text-align: center; }
   body .vacancy footer {
     background-image: none;
-    background-color: #0a6427; }
+    background-color: #0A7F2E; }
     body .vacancy footer .row {
       text-align: center; }
       body .vacancy footer .row .malumot {
         padding-right: 93px; }
   body .home_page {
-    background-color: #0a6427;
+    background-color: #0A7F2E;
     background-image: none; }
     body .home_page .rasm {
       background-image: none; } }

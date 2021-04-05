@@ -12,7 +12,7 @@ body{
 h1,h2,h3,h4,h5,h6,strong,b{
   font-family: "Exo2-Bold",sans-serif;
 }
-$color_yashil: #0a6427;
+$color_yashil: #0A7F2E;
 $color_green: #808080;
 $color_nav:#201F1E;
 *{
@@ -743,6 +743,116 @@ $color_nav:#201F1E;
       height: 250px;
     }}
         }}
+        .services{
+          .navbar {
+            .container {
+              img {
+                width: 80%;
+                height: 80%;
+              }
+              .logo {
+                padding: 0;
+                margin: 0;
+
+              }
+              .btnn {
+                img {
+                  width: 80%;
+                  height: 80%;
+                }
+                margin-right: 20px;
+                padding: 0;
+                background-color: #ffffff;
+                outline: none;
+                border: none;
+              }
+              .navbar-nav {
+                &.text-green {
+                  .nav-item {
+                    .nav-link {
+                      color: $color_green;
+                      font-size: 12px;
+                    }
+                  }
+
+                }
+                .nav-item {
+                  .nav-link {
+                    color: $color_nav;
+                    font-size: 14px;
+                  }
+                  .buttun {
+                    border: 1px solid $color_green;
+                    //width: 163px;
+                    //height: 50px;
+                    color: $color_green;
+                    padding-bottom: 5px;
+                    padding-top: 5px;
+                    padding-left: 15px;
+                    padding-right: 15px;
+                  }
+                }
+              }
+            }
+          }
+          section{
+            .yuqori{
+              a{
+                text-decoration: none;
+                color: $color_yashil;
+                font-weight: 600;
+                font-size: 18px;
+              }
+              img{
+                width: 8px;
+                margin-right: 10px;
+              }
+            }
+            .card{
+              height: 230px;
+              border-radius: 0;
+              border: 2px solid #ffffff;
+              box-shadow: 0 0 20px 2px rgba(200, 201, 204, 0.38);
+              transition: 0.5s;
+              &:hover{
+                border: 2px dashed $color_yashil;
+                margin-top: -10px;
+              }
+              .img{
+                width: 50px;
+              }
+              .doira{
+               box-shadow: 0 0 20px 2px rgba(200, 201, 204, 0.38);
+                width: 27px;
+                height: 27px;
+                border-radius: 50%;
+                img{
+                  width: 12px;
+                }
+              }
+              h4{
+                font-size: 24px;
+                font-weight: 600;
+              }
+              background-image: url("../images/Group 167.png");
+              background-repeat: no-repeat;
+              background-position: 95% 95%;
+              background-size: 25%;
+            }
+            .rasmqada{
+              .card {
+                background-image: url("../images/5885 1.png");
+                border: none;
+                box-shadow: none;
+                background-size: 100%;
+                background-position: center;
+                &:hover{
+                  margin-top: 0;
+                }
+              }
+            }
+          }
+        }
       }
 
 .dropcha::before{
