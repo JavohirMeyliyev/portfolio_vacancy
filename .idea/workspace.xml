@@ -17,7 +17,7 @@
       <file leaf-file-name="style.scss" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sass/style.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
+            <state relative-caret-position="409">
               <caret line="853" column="18" lean-forward="false" selection-start-line="853" selection-start-column="18" selection-end-line="853" selection-end-column="18" />
               <folding>
                 <element signature="e#389#453#0" expanded="false" />
@@ -133,7 +133,7 @@
       <file leaf-file-name="Services.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Services.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="708">
+            <state relative-caret-position="258">
               <caret line="174" column="41" lean-forward="false" selection-start-line="174" selection-start-column="41" selection-end-line="174" selection-end-column="41" />
               <folding>
                 <element signature="n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -216,7 +216,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="951" />
     <option name="y" value="-9" />
     <option name="width" value="978" />
@@ -344,15 +344,15 @@
       <workItem from="1617515516182" duration="37000" />
       <workItem from="1617519994646" duration="16000" />
       <workItem from="1617556232299" duration="410000" />
-      <workItem from="1617598723656" duration="7755000" />
+      <workItem from="1617598723656" duration="7931000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="125601000" />
+    <option name="totallyTimeSpent" value="125777000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1060" extended-state="6" />
+    <frame x="-9" y="-9" width="1938" height="1060" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12956108" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -1809,7 +1809,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Services.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="708">
+        <state relative-caret-position="258">
           <caret line="174" column="41" lean-forward="false" selection-start-line="174" selection-start-column="41" selection-end-line="174" selection-end-column="41" />
           <folding>
             <element signature="n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -1859,7 +1859,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sass/style.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
+        <state relative-caret-position="409">
           <caret line="853" column="18" lean-forward="false" selection-start-line="853" selection-start-column="18" selection-end-line="853" selection-end-column="18" />
           <folding>
             <element signature="e#389#453#0" expanded="false" />
