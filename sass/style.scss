@@ -851,6 +851,26 @@ $color_nav:#201F1E;
                 }
               }
             }
+            .left {
+              transform: rotate(-90deg);
+              left: -350px;
+              top:280px;
+              font-size: 35px;
+              font-weight: 400;
+              color: #dddddd;
+              ul {
+                margin-left: 80px;
+                li{
+                  list-style: none;
+                  margin-left: -3px;
+                  font-size: 25px;
+                }
+                .buyal{
+                  color: $color_yashil;
+                }
+
+              }
+            }
           }
         }
       }

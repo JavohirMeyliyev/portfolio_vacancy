@@ -567,6 +567,21 @@ body .services section .rasmqada .card {
   background-position: center; }
   body .services section .rasmqada .card:hover {
     margin-top: 0; }
+body .services section .left {
+  transform: rotate(-90deg);
+  left: -350px;
+  top: 280px;
+  font-size: 35px;
+  font-weight: 400;
+  color: #dddddd; }
+  body .services section .left ul {
+    margin-left: 80px; }
+    body .services section .left ul li {
+      list-style: none;
+      margin-left: -3px;
+      font-size: 25px; }
+    body .services section .left ul .buyal {
+      color: #0A7F2E; }
 
 .dropcha::before {
   content: "";
