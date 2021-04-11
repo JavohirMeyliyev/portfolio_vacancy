@@ -873,6 +873,143 @@ $color_nav:#201F1E;
             }
           }
         }
+        .portfolio{
+          .navbar {
+
+            .container {
+
+              img {
+                width: 80%;
+                height: 80%;
+              }
+              .logo {
+                padding: 0;
+                margin: 0;
+
+              }
+              .btnn {
+                img {
+                  width: 80%;
+                  height: 80%;
+                }
+                margin-right: 20px;
+                padding: 0;
+                background-color: #ffffff;
+                outline: none;
+                border: none;
+              }
+              .navbar-nav {
+                &.text-green {
+                  .nav-item {
+                    .nav-link {
+                      color: $color_green;
+                      font-size: 12px;
+                    }
+                  }
+
+                }
+                .nav-item {
+                  .nav-link {
+                    color: $color_nav;
+                    font-size: 14px;
+                  }
+                  .buttun {
+                    border: 1px solid $color_green;
+                    //width: 163px;
+                    //height: 50px;
+                    color: $color_green;
+                    padding-bottom: 5px;
+                    padding-top: 5px;
+                    padding-left: 15px;
+                    padding-right: 15px;
+                  }
+                }
+              }
+            }
+          }
+          section{
+            .nav{
+              .col-lg-2 {
+                a {
+                  text-decoration: none;
+                  color: $color_yashil;
+                  font-weight: 600;
+                  font-size: 18px;
+                }
+                img {
+                  width: 8px;
+                  margin-right: 10px;
+                }
+              }
+              .col-12{
+                ul{
+                  li{
+                    a{
+                      font-size: 12px;
+                      color: #a6a6a6;
+                      font-weight: 500;
+                      &:focus{
+                        color: #494846;
+                        font-weight: 600;
+                        border-bottom: 1px solid $color_yashil;
+                      }
+                    }
+                  }
+                }
+              }
+            }
+            .card{
+              .card-img-overlay{
+
+                img{
+                  width: 50%;
+                }
+              }
+              border-radius: 0 ;
+              border: none;
+              .norma{
+                margin-top: 18px;
+                margin-left: 18px;
+                width: 90%;
+                box-shadow: 0 0 20px 2px rgba(200, 201, 204, 0.38);
+                transition: 0.5s;
+              }
+
+            }
+            .left {
+              transform: rotate(-90deg);
+              left: -350px;
+              top:280px;
+              font-size: 35px;
+              font-weight: 400;
+              color: #dddddd;
+              ul {
+                margin-left: 80px;
+                li{
+                  list-style: none;
+                  margin-left: -3px;
+                  font-size: 25px;
+                }
+                .buyal{
+                  color: $color_yashil;
+                }
+
+              }
+            }
+            button{
+              color: $color_yashil;
+              border-radius: 0;
+              border: 2px solid $color_yashil;
+              outline: none;
+              &:focus{
+                outline: none;
+                box-shadow: none;
+                background-color: $color_yashil;
+                color: #ffffff;
+              }
+            }
+          }
+        }
       }
 
 .dropcha::before{
