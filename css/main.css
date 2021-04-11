@@ -629,8 +629,36 @@ body .portfolio section .nav .col-12 ul li a {
 body .portfolio section .card {
   border-radius: 0;
   border: none; }
-  body .portfolio section .card .card-img-overlay img {
-    width: 50%; }
+  body .portfolio section .card .card-img-overlay {
+    transition: 0.5s;
+    opacity: 0; }
+    body .portfolio section .card .card-img-overlay .position-absolute {
+      top: 20px;
+      padding: 10px; }
+      body .portfolio section .card .card-img-overlay .position-absolute a {
+        margin-left: 125px;
+        margin-top: 30px;
+        background-color: #ffffff;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        padding-left: 7px;
+        padding-right: 7px;
+        border-radius: 50%; }
+        body .portfolio section .card .card-img-overlay .position-absolute a img {
+          width: 15px;
+          height: 15px; }
+      body .portfolio section .card .card-img-overlay .position-absolute .katta {
+        margin-top: 20px;
+        font-size: 15px;
+        color: #ffffff; }
+      body .portfolio section .card .card-img-overlay .position-absolute p {
+        margin-top: 10px;
+        font-size: 10px;
+        color: #ffffff; }
+    body .portfolio section .card .card-img-overlay:hover {
+      opacity: 1; }
+    body .portfolio section .card .card-img-overlay img {
+      width: 50%; }
   body .portfolio section .card .norma {
     margin-top: 18px;
     margin-left: 18px;
